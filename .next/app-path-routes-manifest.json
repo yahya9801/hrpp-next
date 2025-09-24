@@ -1,0 +1,22 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/advertise-with-us/page": "/advertise-with-us",
+  "/about-us/page": "/about-us",
+  "/contact-us/page": "/contact-us",
+  "/open-platforms/page": "/open-platforms",
+  "/special-presence-job-ads/page": "/special-presence-job-ads",
+  "/privacy-policy/page": "/privacy-policy",
+  "/terms-and-conditions/page": "/terms-and-conditions",
+  "/classified-jobs/[slug]/page": "/classified-jobs/[slug]",
+  "/classified-jobs/page": "/classified-jobs",
+  "/classified-jobs/page/[page]/page": "/classified-jobs/page/[page]",
+  "/jobs-in-islamabad-rawalpindi/page": "/jobs-in-islamabad-rawalpindi",
+  "/jobs-in-faisalabad/page": "/jobs-in-faisalabad",
+  "/jobs-in-karachi/page": "/jobs-in-karachi",
+  "/jobs-in-pakistan/page": "/jobs-in-pakistan",
+  "/jobs-in-lahore/page": "/jobs-in-lahore",
+  "/jobs-internships-for-non-experienced/page": "/jobs-internships-for-non-experienced",
+  "/page": "/",
+  "/remote-jobs-for-pakistan/page": "/remote-jobs-for-pakistan"
+}
